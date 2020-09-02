@@ -1,4 +1,4 @@
-input_string = "Ravali Reddy"
+input_string = "arjun Reddy"
 frequencies = {} 
   
 for char in input_string: 
@@ -9,4 +9,4 @@ for char in input_string:
 
 
 print ("Per char frequency in '{}' is :\n {}".format(input_string, str(frequencies)))
-© 2020 GitHub, Inc.
+
