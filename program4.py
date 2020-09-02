@@ -9,4 +9,3 @@ print(sum(2, 1, 2))
 print(sum(3, 2, 2))
 print(sum(2, 2, 2))
 print(sum(1, 2, 3))
-© 2020 GitHub, Inc.
